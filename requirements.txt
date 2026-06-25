@@ -1,0 +1,3 @@
+# ONLY PERSIAN VERSION:
+
+jdatetime==4.1.0
