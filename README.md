@@ -14,7 +14,7 @@ A comprehensive personal finance management application with both English and Pe
 - **Branch**: `persian`
 - **Calendar**: Jalali (Persian)
 - **Currency**: Toman
-- [Download Latest Persian Version]([https://github.com/your-username/financial-manager/releases/latest?q=persian&expanded=true](https://github.com/HosseiniAmirMohammad/Financial-Manager/blob/main/exe/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA%20%D9%85%D8%A7%D9%84%DB%8C.exe))
+- [Download Latest Persian Version](https://github.com/HosseiniAmirMohammad/Financial-Manager/blob/main/exe/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA%20%D9%85%D8%A7%D9%84%DB%8C.exe)
 
 ## 📥 Installation
 
