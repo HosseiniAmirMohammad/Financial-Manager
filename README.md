@@ -8,7 +8,7 @@ A comprehensive personal finance management application with both English and Pe
 - **Branch**: `main`
 - **Calendar**: Gregorian
 - **Currency**: USD
-- [Download Latest English Version](https://github.com/your-username/financial-manager/releases/latest)
+- [Download Latest English Version](https://github.com/HosseiniAmirMohammad/Financial-Manager/blob/main/exe/Financial%20Manager.exe)
 
 ### 🇮🇷 Persian Version  
 - **Branch**: `persian`
